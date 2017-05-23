@@ -7,13 +7,13 @@ Minimal static server with express
 git clone git@github.com:Noviel/minimal-static-server.git my-app
 cd my-app
 npm install
-npm start
 ```
 
 ## Usage
 
 1. Place static content inside `static` folder.
-2. Open `localhost:9002`
+2. `npm start`
+3. Open `localhost:9002`
 
 ## Customize
 
