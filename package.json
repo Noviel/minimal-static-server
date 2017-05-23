@@ -1,0 +1,14 @@
+{
+  "name": "minimal-static-server",
+  "version": "1.0.0",
+  "description": "Serve static content",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Aleksandr Snov",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
